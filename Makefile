@@ -1,1 +1,1 @@
-gcc main.c tree.c -o run
+run : gcc main.c tree.c -o run
